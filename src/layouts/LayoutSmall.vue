@@ -15,8 +15,7 @@
       <small-footer />
     </footer>
   </div>
-</template>     
-
+</template>
 <style scoped>
 #layout-small {
   min-height: 100vh;

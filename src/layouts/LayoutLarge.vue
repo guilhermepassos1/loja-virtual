@@ -1,7 +1,7 @@
 <script setup>
-import LargeHeader from '@/components/templates/large/LargeHeader.vue'
-import LargeAside from '@/components/templates/large/LargeAside.vue'
-import LargeFooter from '@/components/templates/large/LargeFooter.vue'
+  import LargeHeader from '@/components/templates/large/LargeHeader.vue';
+  import LargeAside from '@/components/templates/large/LargeAside.vue';
+  import LargeFooter from '@/components/templates/large/LargeFooter.vue';
 </script>
 <template>
   <div id="layout-large">
@@ -19,9 +19,7 @@ import LargeFooter from '@/components/templates/large/LargeFooter.vue'
     </footer>
   </div>
 </template>
-
 <style scoped>
-
 #layout-large {
   display: grid;
   grid-template-columns: 1fr 5fr;

@@ -34,7 +34,7 @@
 
 header {
   display: flex;
-  widow: 100vw;
+  widows: 100vw;
   justify-content: flex-end;
   padding: 1.5rem;
   grid-area: header;
@@ -65,4 +65,4 @@ footer {
   background-color: #eeeeee;
   grid-area: footer;
 }
-</style>  
+</style>
